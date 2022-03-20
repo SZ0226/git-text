@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello,Word,hot-fix");
         System.out.println("master,merge");
         System.out.println("hot-fix,merge");
+        System.out.println("push");
     }
 }
